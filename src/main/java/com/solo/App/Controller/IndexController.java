@@ -17,6 +17,10 @@ public class IndexController {
 		xmlExample.setJobTitle("Soccer professional player");
 		return xmlExample;
 	}
-	
+//	<XMLExample>
+//	<id>1</id>
+//	<jobTitle>Soccer professional player</jobTitle>
+//	<name>Solo utd</name>
+//	</XMLExample>
 	
 }
